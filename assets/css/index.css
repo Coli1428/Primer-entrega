@@ -1,0 +1,10 @@
+*{ /* con el * se formatea el documento */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;/* los elementos respeten el tamaño que se le asigno */
+}
+
+body {
+    font-family: sans-serif;
+    
+}

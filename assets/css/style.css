@@ -1,0 +1,57 @@
+*{ /* con el * se formatea el documento */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;/* los elementos respeten el tamaño que se le asigno */
+
+}
+/* 
+main {
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+img, 
+p {
+    width: 50px;
+    
+}
+ *//****************************************MEDIA QUERIES***********************************************/
+/* 
+@media screen and (max-width : 768px) {
+    ima {
+        width: 40%;
+    }
+    p{
+        width: 56%;
+    }
+}
+@media screen and (max-width: 500px) {
+    main {
+          flex-direction: column;
+    }
+    img,
+    p{
+        width: 100%;
+    }
+}
+/* .header {
+    background-color: rgb (255, 232, 168);
+    height: 60px;
+    width: 100%;
+    box-shadow: 0 2px 8px black;
+}
+.nav{
+    padding: 10px;
+}
+.itemMenu{
+    float: left;
+} */
+footer {
+    display: flex;
+    background: #111;
+    justify-content: space-around;
+    height: 40px;
+    padding: 10px;
+} */
